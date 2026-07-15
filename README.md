@@ -76,9 +76,9 @@ If Python is not configured in your PATH, run it using the full Python path:
 
 ## Example Output
 
-```text
-Fingers: 3
-```
+<img width="807" height="642" alt="image" src="https://github.com/user-attachments/assets/c606ef44-851f-4c4a-93cb-61d1956d5c6c" />
+
+
 
 The displayed number updates automatically as the user changes their hand gesture.
 
