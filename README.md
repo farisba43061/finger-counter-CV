@@ -60,11 +60,6 @@ Run the application:
 python finger_counter.py
 ```
 
-If Python is not configured in your PATH, run it using the full Python path:
-
-```powershell
-& "C:\Users\Faris Bahussian\.conda\envs\catopencv\python.exe" finger_counter.py
-```
 
 ## How It Works
 
